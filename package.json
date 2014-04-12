@@ -21,6 +21,6 @@
     "rimraf": "~2.2.5"
   },
   "scripts": {
-    "test": "tap test/index.js"
+    "test": "tap test/*.js"
   }
 }
